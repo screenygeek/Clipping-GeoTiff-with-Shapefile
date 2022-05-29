@@ -1,0 +1,6 @@
+Flask
+scipy
+Pillow
+numpy
+#GADL (setup manually using wheels (sample .whl file is in the repo (gdal_req)))
+shapely
