@@ -1,6 +1,5 @@
-### Author:	    Saksham Singh
-### Email:	    screenygeek@gmail.com
-### Project:	Clipping-GeoTiff-with-Shapefile
+# Clipping-GeoTiff-with-Shapefile
+### Exploratory Project
 
 # Introduction
 ## Problem Statement
