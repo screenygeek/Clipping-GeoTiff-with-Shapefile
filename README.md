@@ -3,7 +3,7 @@
 
 # Introduction
 ## Problem Statement
-Clipping GeoTiff data file using polygons defined in the shapefile such that it produces a separate output for each polygon
+Clipping GeoTiff data file using polygons defined in the shapefile such that it produces a separate output for each polygon.
 GeoTiff data used as an example: 50m Natural Earth | (`https://www.naturalearthdata.com/downloads/50m-raster-data/50m-natural-earth-2/`)  
 
 ## Dependencies
