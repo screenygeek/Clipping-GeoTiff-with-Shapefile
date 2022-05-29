@@ -1,11 +1,11 @@
-# Author:	Saksham Singh
-# Email:	screenygeek@gmail.com
-# Project:	Clipping-GeoTiff-with-Shapefile
+### Author:	    Saksham Singh
+### Email:	    screenygeek@gmail.com
+### Project:	Clipping-GeoTiff-with-Shapefile
 
 # Introduction
 ## Problem Statement
-### Clipping GeoTiff data file using polygons defined in the shapefile such that it produces a separate output for each polygon
-### GeoTiff data used as an example: 50m Natural Earth | (`https://www.naturalearthdata.com/downloads/50m-raster-data/50m-natural-earth-2/`)  
+Clipping GeoTiff data file using polygons defined in the shapefile such that it produces a separate output for each polygon
+GeoTiff data used as an example: 50m Natural Earth | (`https://www.naturalearthdata.com/downloads/50m-raster-data/50m-natural-earth-2/`)  
 
 ## Dependencies
 ### Python Version Used: 3.7.3 
@@ -54,8 +54,8 @@
 8. Zooming to Specific Shape | (`https://stackoverflow.com/questions/46767950/zoom-to-clicked-feature`)
 9. Changing Properties of selected Feature from a given Shape | (`https://stackoverflow.com/questions/33380035/leaflet-clicking-on-features`)
 10. Rasterio | (`https://rasterio.readthedocs.io/en/latest/installation.html`)
-11. ## Algorithm | (`https://medium.com/@DanielJDufour/calculating-intersection-of-polygon-with-a-raster-89c2624d78a2`)
-12. ## GeoBlaze | (`https://docs.geoblaze.io/#get`)
-13. ## Dataset | (`https://www.naturalearthdata.com/downloads/50m-raster-data/50m-natural-earth-2/`)
+11. Algorithm | (`https://medium.com/@DanielJDufour/calculating-intersection-of-polygon-with-a-raster-89c2624d78a2`)
+12. GeoBlaze | (`https://docs.geoblaze.io/#get`)
+13. Dataset | (`https://www.naturalearthdata.com/downloads/50m-raster-data/50m-natural-earth-2/`)
 14. (`https://mygeodata.cloud/converter/json-to-shp`)
 15. (`https://gis.stackexchange.com/questions/397718/converting-geojson-to-shapefile`)
